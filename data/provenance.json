@@ -1,0 +1,35 @@
+{
+  "selection": {
+    "cik": "320193",
+    "accession": "0000320193-24-000123",
+    "form": "10-K",
+    "quarter": "2024q4"
+  },
+  "source_url": "https://www.sec.gov/files/dera/data/financial-statement-data-sets/2024q4.zip",
+  "method": "Selected all NUM and PRE rows for one accession; kept referenced TAG definitions. SUB is a column projection without addresses or contacts.",
+  "retrieval": "Extracted from existing local SEC ZIP on 2026-11-03; no fresh SEC download.",
+  "source_zip_sha256": "9a2cbbaf39c94aa642b33d512f4def92b198d3bfd12d2267bcd27abe55b9902d",
+  "files": {
+    "num.tsv": {
+      "sha256": "d0fdcbc869f2431d22b4d204d7fc4c04b132ddd5cba468876f806d34172c6221",
+      "rows": 416
+    },
+    "pre.tsv": {
+      "sha256": "8d8c82e2007bf7b80fb4b9c0e8219678adca153a8caa394bd1875d19ab7ff659",
+      "rows": 98
+    },
+    "sub.tsv": {
+      "sha256": "e85ac81ea60a35c1b345003a5593068b3175ccd856fe525c5bb01de35c60c8a8",
+      "rows": 1
+    },
+    "tag.tsv": {
+      "sha256": "75bc23a6a5253078caaa10322e2d93ff84f26cfeff15a6accaeb8ae8e83f536f",
+      "rows": 89
+    }
+  },
+  "upstream_code": {
+    "ausencias_sec.py": "33f6b0f35699bd096ed54f7fa3a478fe60ae5c1544749d03bcaf313b0313f0a7",
+    "motor_sec.py": "ac2a5dded56a17d7a757f02ae9d4d96bc815195bd1656fe8e105995a57376a7d",
+    "reglas_sec.py": "b5cd463a7d93cd72205d8c3210b112b3c5f21ef91082c15acaf624344d244e1e"
+  }
+}

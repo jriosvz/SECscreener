@@ -1,0 +1,99 @@
+adsh	report	line	stmt	inpth	rfile	tag	version	plabel	negating
+0000320193-24-000123	3	7	IS	0	H	RevenueFromContractWithCustomerExcludingAssessedTax	us-gaap/2024	Net sales	0
+0000320193-24-000123	3	8	IS	0	H	CostOfGoodsAndServicesSold	us-gaap/2024	Cost of sales	0
+0000320193-24-000123	3	9	IS	0	H	GrossProfit	us-gaap/2024	Gross margin	0
+0000320193-24-000123	3	11	IS	0	H	ResearchAndDevelopmentExpense	us-gaap/2024	Research and development	0
+0000320193-24-000123	3	12	IS	0	H	SellingGeneralAndAdministrativeExpense	us-gaap/2024	Selling, general and administrative	0
+0000320193-24-000123	3	13	IS	0	H	OperatingExpenses	us-gaap/2024	Total operating expenses	0
+0000320193-24-000123	3	14	IS	0	H	OperatingIncomeLoss	us-gaap/2024	Operating income	0
+0000320193-24-000123	3	15	IS	0	H	NonoperatingIncomeExpense	us-gaap/2024	Other income/(expense), net	0
+0000320193-24-000123	3	16	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest	us-gaap/2024	Income before provision for income taxes	0
+0000320193-24-000123	3	17	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2024	Provision for income taxes	0
+0000320193-24-000123	3	18	IS	0	H	NetIncomeLoss	us-gaap/2024	Net income	0
+0000320193-24-000123	3	20	IS	0	H	EarningsPerShareBasic	us-gaap/2024	Basic (in dollars per share)	0
+0000320193-24-000123	3	21	IS	0	H	EarningsPerShareDiluted	us-gaap/2024	Diluted (in dollars per share)	0
+0000320193-24-000123	3	23	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2024	Basic (in shares)	0
+0000320193-24-000123	3	24	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2024	Diluted (in shares)	0
+0000320193-24-000123	4	1	CI	0	H	NetIncomeLoss	us-gaap/2024	Net income	0
+0000320193-24-000123	4	3	CI	0	H	OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax	us-gaap/2024	Change in foreign currency translation, net of tax	0
+0000320193-24-000123	4	5	CI	0	H	OtherComprehensiveIncomeLossDerivativeInstrumentGainLossbeforeReclassificationafterTax	0000320193-24-000123	Change in fair value of derivative instruments	0
+0000320193-24-000123	4	6	CI	0	H	OtherComprehensiveIncomeLossDerivativeInstrumentGainLossReclassificationAfterTax	0000320193-24-000123	Adjustment for net (gains)/losses realized and included in net income	1
+0000320193-24-000123	4	7	CI	0	H	OtherComprehensiveIncomeLossDerivativeInstrumentGainLossafterReclassificationandTax	0000320193-24-000123	Total change in unrealized gains/losses on derivative instruments	0
+0000320193-24-000123	4	9	CI	0	H	OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax	us-gaap/2024	Change in fair value of marketable debt securities	0
+0000320193-24-000123	4	10	CI	0	H	OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax	us-gaap/2024	Adjustment for net (gains)/losses realized and included in net income	1
+0000320193-24-000123	4	11	CI	0	H	OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax	us-gaap/2024	Total change in unrealized gains/losses on marketable debt securities	0
+0000320193-24-000123	4	12	CI	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2024	Total other comprehensive income/(loss)	0
+0000320193-24-000123	4	13	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2024	Total comprehensive income	0
+0000320193-24-000123	5	3	BS	0	H	CashAndCashEquivalentsAtCarryingValue	us-gaap/2024	Cash and cash equivalents	0
+0000320193-24-000123	5	4	BS	0	H	MarketableSecuritiesCurrent	us-gaap/2024	Marketable securities	0
+0000320193-24-000123	5	5	BS	0	H	AccountsReceivableNetCurrent	us-gaap/2024	Accounts receivable, net	0
+0000320193-24-000123	5	6	BS	0	H	NontradeReceivablesCurrent	us-gaap/2024	Vendor non-trade receivables	0
+0000320193-24-000123	5	7	BS	0	H	InventoryNet	us-gaap/2024	Inventories	0
+0000320193-24-000123	5	8	BS	0	H	OtherAssetsCurrent	us-gaap/2024	Other current assets	0
+0000320193-24-000123	5	9	BS	0	H	AssetsCurrent	us-gaap/2024	Total current assets	0
+0000320193-24-000123	5	11	BS	0	H	MarketableSecuritiesNoncurrent	us-gaap/2024	Marketable securities	0
+0000320193-24-000123	5	12	BS	0	H	PropertyPlantAndEquipmentNet	us-gaap/2024	Property, plant and equipment, net	0
+0000320193-24-000123	5	13	BS	0	H	OtherAssetsNoncurrent	us-gaap/2024	Other non-current assets	0
+0000320193-24-000123	5	14	BS	0	H	AssetsNoncurrent	us-gaap/2024	Total non-current assets	0
+0000320193-24-000123	5	15	BS	0	H	Assets	us-gaap/2024	Total assets	0
+0000320193-24-000123	5	18	BS	0	H	AccountsPayableCurrent	us-gaap/2024	Accounts payable	0
+0000320193-24-000123	5	19	BS	0	H	OtherLiabilitiesCurrent	us-gaap/2024	Other current liabilities	0
+0000320193-24-000123	5	20	BS	0	H	ContractWithCustomerLiabilityCurrent	us-gaap/2024	Deferred revenue	0
+0000320193-24-000123	5	21	BS	0	H	CommercialPaper	us-gaap/2024	Commercial paper	0
+0000320193-24-000123	5	22	BS	0	H	LongTermDebtCurrent	us-gaap/2024	Term debt	0
+0000320193-24-000123	5	23	BS	0	H	LiabilitiesCurrent	us-gaap/2024	Total current liabilities	0
+0000320193-24-000123	5	25	BS	0	H	LongTermDebtNoncurrent	us-gaap/2024	Term debt	0
+0000320193-24-000123	5	26	BS	0	H	OtherLiabilitiesNoncurrent	us-gaap/2024	Other non-current liabilities	0
+0000320193-24-000123	5	27	BS	0	H	LiabilitiesNoncurrent	us-gaap/2024	Total non-current liabilities	0
+0000320193-24-000123	5	28	BS	0	H	Liabilities	us-gaap/2024	Total liabilities	0
+0000320193-24-000123	5	29	BS	0	H	CommitmentsAndContingencies	us-gaap/2024	Commitments and contingencies	0
+0000320193-24-000123	5	30	BS	0	H	CommonStockSharesOutstanding	us-gaap/2024	Common stock, shares outstanding (in shares)	0
+0000320193-24-000123	5	31	BS	0	H	CommonStockSharesIssued	us-gaap/2024	Common stock, shares issued (in shares)	0
+0000320193-24-000123	5	33	BS	0	H	CommonStocksIncludingAdditionalPaidInCapital	us-gaap/2024	Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 15,116,786 and 15,550,061 shares issued and outstanding, respectively	0
+0000320193-24-000123	5	34	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2024	Accumulated deficit	0
+0000320193-24-000123	5	35	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2024	Accumulated other comprehensive loss	0
+0000320193-24-000123	5	36	BS	0	H	StockholdersEquity	us-gaap/2024	Total shareholders equity	0
+0000320193-24-000123	5	37	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2024	Total liabilities and shareholders equity	0
+0000320193-24-000123	6	1	BS	1	H	CommonStockParOrStatedValuePerShare	us-gaap/2024	Common stock, par value (in dollars per share)	0
+0000320193-24-000123	6	2	BS	1	H	CommonStockSharesAuthorized	us-gaap/2024	Common stock, shares authorized (in shares)	0
+0000320193-24-000123	6	3	BS	1	H	CommonStockSharesIssued	us-gaap/2024	Common stock, shares issued (in shares)	0
+0000320193-24-000123	6	4	BS	1	H	CommonStockSharesOutstanding	us-gaap/2024	Common stock, shares outstanding (in shares)	0
+0000320193-24-000123	7	9	EQ	0	H	StockholdersEquity	us-gaap/2024	Beginning balances	0
+0000320193-24-000123	7	10	EQ	0	H	StockIssuedDuringPeriodValueNewIssues	us-gaap/2024	Common stock issued	0
+0000320193-24-000123	7	11	EQ	0	H	AdjustmentsRelatedToTaxWithholdingForShareBasedCompensation	us-gaap/2024	Common stock withheld related to net share settlement of equity awards	1
+0000320193-24-000123	7	12	EQ	0	H	AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue	us-gaap/2024	Share-based compensation	0
+0000320193-24-000123	7	13	EQ	0	H	NetIncomeLoss	us-gaap/2024	Net income	0
+0000320193-24-000123	7	14	EQ	0	H	Dividends	us-gaap/2024	Dividends and dividend equivalents declared	1
+0000320193-24-000123	7	15	EQ	0	H	StockRepurchasedAndRetiredDuringPeriodValue	us-gaap/2024	Common stock repurchased	1
+0000320193-24-000123	7	16	EQ	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2024	Other comprehensive income/(loss)	0
+0000320193-24-000123	7	17	EQ	0	H	StockholdersEquity	us-gaap/2024	Ending balances	0
+0000320193-24-000123	7	18	EQ	0	H	CommonStockDividendsPerShareDeclared	us-gaap/2024	Dividends and dividend equivalents declared per share or RSU (in dollars per share or RSU)	0
+0000320193-24-000123	8	1	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2024	Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances	0
+0000320193-24-000123	8	3	CF	0	H	NetIncomeLoss	us-gaap/2024	Net income	0
+0000320193-24-000123	8	5	CF	0	H	DepreciationDepletionAndAmortization	us-gaap/2024	Depreciation and amortization	0
+0000320193-24-000123	8	6	CF	0	H	ShareBasedCompensation	us-gaap/2024	Share-based compensation expense	0
+0000320193-24-000123	8	7	CF	0	H	OtherNoncashIncomeExpense	us-gaap/2024	Other	1
+0000320193-24-000123	8	9	CF	0	H	IncreaseDecreaseInAccountsReceivable	us-gaap/2024	Accounts receivable, net	1
+0000320193-24-000123	8	10	CF	0	H	IncreaseDecreaseInOtherReceivables	us-gaap/2024	Vendor non-trade receivables	1
+0000320193-24-000123	8	11	CF	0	H	IncreaseDecreaseInInventories	us-gaap/2024	Inventories	1
+0000320193-24-000123	8	12	CF	0	H	IncreaseDecreaseInOtherOperatingAssets	us-gaap/2024	Other current and non-current assets	1
+0000320193-24-000123	8	13	CF	0	H	IncreaseDecreaseInAccountsPayable	us-gaap/2024	Accounts payable	0
+0000320193-24-000123	8	14	CF	0	H	IncreaseDecreaseInOtherOperatingLiabilities	us-gaap/2024	Other current and non-current liabilities	0
+0000320193-24-000123	8	15	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2024	Cash generated by operating activities	0
+0000320193-24-000123	8	17	CF	0	H	PaymentsToAcquireAvailableForSaleSecuritiesDebt	us-gaap/2024	Purchases of marketable securities	1
+0000320193-24-000123	8	18	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities	us-gaap/2024	Proceeds from maturities of marketable securities	0
+0000320193-24-000123	8	19	CF	0	H	ProceedsFromSaleOfAvailableForSaleSecuritiesDebt	us-gaap/2024	Proceeds from sales of marketable securities	0
+0000320193-24-000123	8	20	CF	0	H	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2024	Payments for acquisition of property, plant and equipment	1
+0000320193-24-000123	8	21	CF	0	H	PaymentsForProceedsFromOtherInvestingActivities	us-gaap/2024	Other	1
+0000320193-24-000123	8	22	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2024	Cash generated by/(used in) investing activities	0
+0000320193-24-000123	8	24	CF	0	H	PaymentsRelatedToTaxWithholdingForShareBasedCompensation	us-gaap/2024	Payments for taxes related to net share settlement of equity awards	1
+0000320193-24-000123	8	25	CF	0	H	PaymentsOfDividends	us-gaap/2024	Payments for dividends and dividend equivalents	1
+0000320193-24-000123	8	26	CF	0	H	PaymentsForRepurchaseOfCommonStock	us-gaap/2024	Repurchases of common stock	1
+0000320193-24-000123	8	27	CF	0	H	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2024	Proceeds from issuance of term debt, net	0
+0000320193-24-000123	8	28	CF	0	H	RepaymentsOfLongTermDebt	us-gaap/2024	Repayments of term debt	1
+0000320193-24-000123	8	29	CF	0	H	ProceedsFromRepaymentsOfCommercialPaper	us-gaap/2024	Proceeds from/(Repayments of) commercial paper, net	0
+0000320193-24-000123	8	30	CF	0	H	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2024	Other	0
+0000320193-24-000123	8	31	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2024	Cash used in financing activities	0
+0000320193-24-000123	8	32	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2024	Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents	0
+0000320193-24-000123	8	33	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2024	Cash, cash equivalents, and restricted cash and cash equivalents, ending balances	0
+0000320193-24-000123	8	35	CF	0	H	IncomeTaxesPaidNet	us-gaap/2024	Cash paid for income taxes, net	0
