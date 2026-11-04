@@ -1,12 +1,19 @@
 from pathlib import Path
 import sys
 import unittest
+import hashlib
+import json
 import pandas as pd
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 from demo import load_tables,validate,procesar_extraido
 
 class QualityTests(unittest.TestCase):
     def setUp(self): self.t=load_tables()
+    def test_sample_byte_integrity(self):
+        data=Path(__file__).resolve().parents[1]/'data'
+        provenance=json.loads((data/'provenance.json').read_text())
+        for name,entry in provenance['files'].items():
+            self.assertEqual(hashlib.sha256((data/name).read_bytes()).hexdigest(),entry['sha256'])
     def checks(self): return {x['check'] for x in validate(self.t)}
     def test_real_sample(self): self.assertEqual(validate(self.t),[])
     def test_orphan(self):

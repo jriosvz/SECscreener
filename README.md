@@ -25,7 +25,7 @@ Alternatively, use `.venv\Scripts\python.exe` directly if PowerShell activation 
 - Duplicate records, conflicting values and invalid numbers block processing.
 - Separate units, periods and reporting contexts; missing observations remain missing.
 - Eight selected annual concepts with source candidates and rule-level audit records.
-- Ten automated tests, including deliberately corrupted copies of the sample.
+- Eleven automated tests, including deliberately corrupted copies of the sample.
 
 The sample includes 1 SUB row, 416 NUM rows, 98 PRE rows and 89 TAG definitions. SUB contains selected metadata columns only; addresses and contacts were excluded. NUM/PRE preserve all rows for the selected accession. See `data/provenance.json` for source, selection, hashes and original module hashes.
 
